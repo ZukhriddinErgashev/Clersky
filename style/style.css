@@ -5,9 +5,17 @@
     text-decoration: none;
     box-sizing: border-box;
 }
+body{
+    color: #FBFAF7;
+}
 .container{
     max-width: 1140px;
     margin: 0 auto;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 header{
     background-color: #163A24;
@@ -45,3 +53,25 @@ header{
     background-color: #198C36;
     border-radius: 30px;
 }
+/* -------------- Nav bar end -----------*/
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.text-box{
+    margin-top: 110px;
+}
+.text-box h1{
+    color: #FBFAF7;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 50px;
+}
+.text-box p{
+    color: #FBFAF7;
+    font-size: 19px;
+    line-height: 27px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+/* ------------------------------------ header end ------------------------- */
