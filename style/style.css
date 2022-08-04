@@ -75,3 +75,56 @@ header{
     padding-top: 20px;
 }
 /* ------------------------------------ header end ------------------------- */
+.stwoo{
+    padding-top: 100px;
+}
+.text_item{
+    margin-right: 200px;
+}
+.text_item h1{
+    color: #163A24;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 54px;
+}
+.text_item p{
+    color: #163A24;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    padding-top: 30px;
+}
+/* ------------------------- section two end -------------------- */
+.text h1{
+    color: #163A24;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 54px;
+}
+.three{
+    padding-top: 15px;
+}
+.text p{
+    color: #163A24;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    padding-top: 30px;
+}
+.text{
+    margin-left: 80px;
+}
+/* ---------------- section three end -------------- */
+#rec{
+    padding-top: 100px;
+}
+.title h1{
+    color: #163A24;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 50px;
+    padding-top: 15px;
+    text-align: center;
+    padding-bottom: 65px;
+}
+/* -------------------- section rec end -------------- */
