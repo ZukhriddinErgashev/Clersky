@@ -7,6 +7,7 @@
 }
 body{
     color: #FBFAF7;
+    font-family: sans-serif;
 }
 .container{
     max-width: 1140px;
@@ -186,6 +187,7 @@ header{
 .services{
     padding-top: 150px;
     color: #163A24;
+    background-color: #E5E5E5;
 }
 .services__title{
     position: relative;
@@ -203,3 +205,159 @@ header{
     line-height: 24px;
 }
 /* ----------------------------section services end --------------------- */
+.interest{
+    color: #163A24;
+    padding-bottom: 120px;
+}
+.interest__title{
+    text-align: center;
+    padding-top: 115px;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 54px;
+}
+.interest__subtitle{
+    padding-top: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.interest__item{
+    background-color: #FBFAF7;
+    box-shadow: 5px 5px 20px #E9E4D5;
+    border-radius: 15px;
+    max-width: 353px;
+    height: 400px;
+}
+.interest__item img{
+    padding-top: 50px;
+    padding-left: 40px;
+}
+.interest__item h2{
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.interest__item1-h2{
+    padding-right: 150px;
+}
+.interest__item2-h2{
+    padding-right: 15px;
+    margin-right: 20px;
+}
+.interest__item3-h2{
+    padding-right: 30px;
+
+}
+.interest__item ul{
+    padding-left: 40px;
+    padding-top: 20px;
+}
+.interest__item ul li a{
+    color: #163A24;
+    font-size: 16px;
+    line-height: 21.7px;
+    margin-bottom: 15px;
+
+}
+/* ----------------------section services end -------------------------- */
+.delivery{
+    color: #163A24;
+    text-align: center;
+    background-color: #F2EFE6;
+    padding-bottom: 120px;
+}
+.delivery__title{
+    padding-top: 110px;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 54px;
+}
+.delivery__subtitle{
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 400;
+    padding-top: 25px;
+    padding-bottom: 60px;
+}
+.delivery__items{
+    padding-bottom: 45px;
+}
+.delivery__items p{
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 27px;
+}
+.delivery__button{
+    color: #fff;
+    background-color: #198C36;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 400;
+    padding: 15px 25px 15px 25px;
+    border-radius: 160px;
+}
+.button{
+    color: #fff;
+    background-color: #198C36;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 400;
+    padding: 15px 25px 15px 25px;
+    border-radius: 160px;
+}
+/* ------------------------------ section delivery end ------------------ */
+.book{
+    color: #163A24;
+}
+.book__block{
+    margin-top: 120px;
+}
+.book_text{
+    position: relative;
+    left: 100px;
+}
+.book__title{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 54px;
+    padding-bottom: 25px;
+}
+.book__subtitle{
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+/* ------------------------ section book end ------------------------- */
+.footer__block{
+    padding-top: 45px;
+    padding-bottom: 45px;
+    border-bottom: 1px solid #F2EFE6;
+}
+.footer__title{
+    color: #163A24;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 600;
+}
+.footer__social img{
+    padding-right: 10px ;
+}
+.footer__text{
+    padding-top: 25px;
+}
+.footer__text p{
+    color: #163A24;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+}
+.footer__text ul{
+    list-style: none;
+}
+.footer__text ul li a{
+    color: #198C36;
+    padding-right: 10px;
+}
